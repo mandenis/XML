@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>1. Basic theory (What is testing, bug reports, documentation, types, methods, areas of testing, etc.) SDLC, STLC.</para>
+  <para>2. What is a client-server architecture.</para>
+  <para>3. HTTP Methods of requests to the server.</para>
+  <para>4. HTTP server response codes.</para>
+  <para>5. Structures of HTTP requests and responses.</para>
+  <para>6. What is JSON, XML. Their structure.</para>
+  <para>7. API testing via Postman (JS, API autotests).</para>
+  <para>8. Removing and reading logs from an external server.</para>
+  <para>9. Sniffing http web traffic via Charles and Fiddler.</para>
+  <para>10. Dev Tools of web browsers (Google Chrome, FireFox)</para>
+  <para>10. Dev Tools of web browsers (Google Chrome, FireFox).</para>
+  <para>11. VPN. (How it works, why you need it, how to use it, tool options)</para>
+  <para>12. Mobile testing.</para>
+  <para>13. Feature iOS, Android, guidelines.</para>
+  <para>14. Building iOS applications on XCode. (Those who do not have a Mac computer, just look)</para>
+  <para>15. Building Android applications on Android Studio.</para>
+  <para>16. ADB (android device management).</para>
+  <para>17. Setting up proxy and vpn on iOS and Android.</para>
+  <para>18. Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</para>
+  <para>19. Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</para>
+  <para>20. Basics of bash scripting, automation of routine tasks on the server.</para>
+  <para>21. Access to remote servers.</para>
+  <para>22. SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</para>
+  <para>23. Postgres database (installation, configuration and use).</para>
+  <para>24. Non-relational database Redis (installation, configuration and use).</para>
+  <para>25. Load testing in Jmeter.</para>
+  <para>26. Scrum development methodology.</para>
+</article>
+
