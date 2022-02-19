@@ -1,1 +1,36 @@
 
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <header>Short description (short description of the problem).</header>
+  <header>Project (name of the current project).</header>
+  <header>Application component (in which the defect occurred)</header>
+  <header>Version (version of the build in which the bug was found)</header>
+  <header>Severity (gradation of the degree of impact on the application of the bug).</header>
+  <header>Priority (bug fix queue).</header>
+  <header>Status (displays the status of the bug in its lifecycle).</header>
+  <header>Author (author of the bug report).</header>
+  <header>Assignment (who should fix the defect).</header>
+  <Environment>Windows 11 Home Single Language Edition</Environment>
+  <Environment>Version 21H2</Environment>
+  <Environment> Installation date 01.02.2022</Environment>
+  <Environment>OS Build 22000.493</Environment>
+  <Environment>Interoperability Windows Feature Experience Pack 1000.22000.493.0</Environment>
+  <Environment>google chrome browser</Environment>
+  <Environment>Version 98.0.4758.102 (Official build) (64 bit)</Environment>
+  <Description>Reproduction steps (description of the path that leads to the occurrence of the defect).</Description>
+  <Description>The actual result (the result that we arrive at after completing all the playback steps).</Description>
+  <Description>Expected result (result that be in accordance with the requirements).</Description>
+  <Extras>Attached file (logs, screenshots, other documents, </Extras>
+  <Extras>which may help reproduce or resolve the issue).</Extras>
+  <Extras>Despite such a large number of bug report points</Extras>
+  <Extras>several basic fields can be distinguished, the presence of which is necessary.</Extras>
+  <Severity>The defect either completely stops the application from working,</Severity>
+  <Severity>either just part of the functionality, or otherwise.</Severity>
+  <Short_description>The field in which to put the whole point of the entire bug report.</Short_description>
+  <Short_description>Most often in a short description they briefly answer 3 questions: Where? What? When?</Short_description>
+  <Short_description>(in exactly this sequence, no matter how much you would like to change it following the example of a well-known game). </Short_description>
+  <Steps_to_play>An accurate and understandable description of all the steps that lead to </Steps_to_play>
+  <Steps_to_play>to the appearance of a defect, taking into account all the necessary input data, etc.</Steps_to_play>
+  <Actual_result> Description ..... </Actual_result>
+  <Expected_Result.> Description ..... </Expected_Result.>
+</root>
